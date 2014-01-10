@@ -1,0 +1,43 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "selection:party.contact_mechanism,type:"
+msgid "Facebook"
+msgstr "Facebook"
+
+msgctxt "selection:party.contact_mechanism,type:"
+msgid "Flickr"
+msgstr "Flickr"
+
+msgctxt "selection:party.contact_mechanism,type:"
+msgid "Focus"
+msgstr "Focus"
+
+msgctxt "selection:party.contact_mechanism,type:"
+msgid "Google+"
+msgstr "Google+"
+
+msgctxt "selection:party.contact_mechanism,type:"
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+msgctxt "selection:party.contact_mechanism,type:"
+msgid "Meetup"
+msgstr "Meetup"
+
+msgctxt "selection:party.contact_mechanism,type:"
+msgid "Ning"
+msgstr "Ning"
+
+msgctxt "selection:party.contact_mechanism,type:"
+msgid "Tuenti"
+msgstr "Tuenti"
+
+msgctxt "selection:party.contact_mechanism,type:"
+msgid "Twiteer"
+msgstr "Twiteer"
+
+msgctxt "selection:party.contact_mechanism,type:"
+msgid "Xing"
+msgstr "Xing"
