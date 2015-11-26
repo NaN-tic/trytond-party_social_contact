@@ -15,7 +15,7 @@ class ContactMechanism:
         super(ContactMechanism, cls).__setup__()
         cls.type.selection.extend([
                 ('facebook', 'Facebook'),
-                ('twiteer', 'Twiteer'),
+                ('twitter', 'Twitter'),
                 ('flickr', 'Flickr'),
                 ('focus', 'Focus'),
                 ('google', 'Google+'),
