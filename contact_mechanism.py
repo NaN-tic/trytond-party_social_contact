@@ -6,8 +6,7 @@ from trytond.pool import PoolMeta
 __all__ = ['ContactMechanism']
 
 
-class ContactMechanism:
-    __metaclass__ = PoolMeta
+class ContactMechanism(metaclass=PoolMeta):
     __name__ = 'party.contact_mechanism'
 
     @classmethod
